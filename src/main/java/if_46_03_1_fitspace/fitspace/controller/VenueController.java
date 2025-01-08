@@ -104,4 +104,3 @@ public class VenueController {
         return DtoToWebMapper.toWebResponse(venueDataResponse);
     }
 }
-
